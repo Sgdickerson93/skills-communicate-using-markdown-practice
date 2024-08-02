@@ -14,3 +14,9 @@ Testing code blocks
 ``` javascript
 var myVar = "Hello, world!";
 ```
+<br>
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
